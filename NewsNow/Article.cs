@@ -4,23 +4,36 @@ namespace NewsNow
 {
     class Article
     {
-        private string title, content, link, thumblink, guid;
+        private string title, description, link, thumblink, guid, date, category;
 
         public override string ToString()
         {
-            return String.Format("{0} {1} {2}", title, content, guid);
+            return String.Format("{0} : {2} : {3} : {4}", title, description, guid, date, category);
         }
 
-        public string Content
+        public string Category
         {
             get
             {
-                return content;
+                return category;
             }
 
             set
             {
-                content = value;
+                category = value;
+            }
+        }
+
+        public string Description
+        {
+            get
+            {
+                return description;
+            }
+
+            set
+            {
+                description = value;
             }
         }
 
@@ -67,12 +80,25 @@ namespace NewsNow
         {
             get
             {
-                return title;
+                return Date;
             }
 
             set
             {
                 title = value;
+            }
+        }
+
+        public string Date
+        {
+            get
+            {
+                return date;
+            }
+
+            set
+            {
+                date = value;
             }
         }
     }
