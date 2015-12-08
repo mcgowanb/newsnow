@@ -4,11 +4,12 @@ namespace NewsNow
 {
     class Article
     {
-        private string title, description, link, thumblink, guid, date, category;
+        private string title, description, link, thumblink, guid, category;
+        private DateTime date;
 
         public override string ToString()
         {
-            return String.Format("{0} : {2} : {3} : {4}", title, description, guid, date, category);
+            return String.Format("{0} : {1} : {2} : {3:dd/MM/yy HH:mm:ss} : {4}", title, description, guid, date, category);
         }
 
         public string Category
@@ -80,7 +81,7 @@ namespace NewsNow
         {
             get
             {
-                return Date;
+                return title;
             }
 
             set
@@ -89,7 +90,7 @@ namespace NewsNow
             }
         }
 
-        public string Date
+        public DateTime Date
         {
             get
             {

@@ -29,7 +29,7 @@ namespace NewsNow
                 Article art = new Article();
                 art.Guid = node ["guid"].InnerText;
                 art.Title = node["title"].InnerText;
-                art.Date = node["pubDate"].InnerText;
+                art.Date = Convert.ToDateTime(node["pubDate"].InnerText);
                 art.Description = node["description"].InnerText;
                 art.Category = node["category"].InnerText;
                 list.Add(art);
