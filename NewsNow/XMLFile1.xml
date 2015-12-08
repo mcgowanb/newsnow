@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+                    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+                    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+                    xmlns:atom="http://www.w3.org/2005/Atom"
+                    xmlns:media="http://search.yahoo.com/mrss/"
+                  >
+  <channel>
+    <title><![CDATA[TheJournal.ie]]></title>
+    <link>http://www.thejournal.ie</link>
+    <description><![CDATA[Ireland's Internet Newspaper]]></description>
+    <atom:link href="http://www.thejournal.ie/feed/"  rel="self"  type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Dec 2015 20:20:21 +0000</lastBuildDate>
+    <language>en</language>
+    <item>
+      <title><![CDATA[The Red Cross is setting up emergency drinking water points on the Shannon]]></title>
+      <link>http://www.thejournal.ie/drinking-water-red-cross-2490899-Dec2015/</link>
+      <comments>http://www.thejournal.ie/drinking-water-red-cross-2490899-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 20:06:12 +0000</pubDate>
+      <description><![CDATA[Hereâ€™s where theyâ€™ll beâ€¦ ]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/flood2-2-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c3.thejournal.ie/media/2015/12/flood2-2-630x419.jpg"  height="419"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2490899</guid>
+      <category><![CDATA[Shannon]]></category>
+    </item>
+    <item>
+      <title><![CDATA[LIVE: Wolfsburg v Man United, Champions League]]></title>
+      <link>http://www.the42.ie/live-wolfsburg-man-united-champions-league-2490735-Dec2015/</link>
+      <comments>http://www.the42.ie/live-wolfsburg-man-united-champions-league-2490735-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 19:50:33 +0000</pubDate>
+      <description><![CDATA[Man United take on Wolfsburg as they bid to gain a place in the last 16. ]]></description>
+      <media:thumbnail url="http://c2.thejournal.ie/media/2015/12/manchester-united-v-west-ham-united-barclays-premier-league-old-trafford-10-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c2.thejournal.ie/media/2015/12/manchester-united-v-west-ham-united-barclays-premier-league-old-trafford-10-630x415.jpg"  height="415"  width="630"  medium="image" />
+      <guid>http://the42.ie/2490735</guid>
+      <category><![CDATA[Wolfsburg]]></category>
+    </item>
+    <item>
+      <title><![CDATA[White House says Trumpâ€™s latest idea â€œdisqualifiesâ€ him from being President â€“ and he has â€œfake hairâ€]]></title>
+      <link>http://www.thejournal.ie/white-house-trump-disqualified-from-presidency-2490248-Dec2015/</link>
+      <comments>http://www.thejournal.ie/white-house-trump-disqualified-from-presidency-2490248-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 19:48:57 +0000</pubDate>
+      <description><![CDATA[White House Press Secretary Josh Earnest tore into Trump.]]></description>
+      <media:thumbnail url="http://c0.thejournal.ie/media/2015/12/gop-2016-trump-39-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c0.thejournal.ie/media/2015/12/gop-2016-trump-39-630x407.jpg"  height="407"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2490248</guid>
+      <category><![CDATA[wigging out]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Everything you need to know about the weather (and the flood predictions)]]></title>
+      <link>http://www.thejournal.ie/weather-warning-country-place-disaster-2489209-Dec2015/</link>
+      <comments>http://www.thejournal.ie/weather-warning-country-place-disaster-2489209-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 19:35:15 +0000</pubDate>
+      <description><![CDATA[Two status yellow warnings will be in effect tomorrow.  ]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/flood1-3-630x332.jpg"  height="332"  width="630" />
+      <media:content url="http://c3.thejournal.ie/media/2015/12/flood1-3-630x295.jpg"  height="295"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489209</guid>
+      <category><![CDATA[River Shannon]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Thomas McFeely â€˜fails to give address and disclose assetsâ€™ in bankruptcy proceedings]]></title>
+      <link>http://www.thejournal.ie/thomas-mcfeely-is-failing-to-co-operate-with-bankruptcy-official-2490738-Dec2015/</link>
+      <comments>http://www.thejournal.ie/thomas-mcfeely-is-failing-to-co-operate-with-bankruptcy-official-2490738-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 19:34:50 +0000</pubDate>
+      <description><![CDATA[The High Court has heard that the developer did not provide his place of residence or disclose his interest in â€œsignificant assetsâ€.]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/21102011-tom-mcfeely-court-cases-6-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c1.thejournal.ie/media/2015/12/21102011-tom-mcfeely-court-cases-6-312x500.jpg"  height="500"  width="312"  medium="image" />
+      <guid>http://jrnl.ie/2490738</guid>
+      <category><![CDATA[Thomas McFeely]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Tescoâ€™s self checkouts now say â€˜Ho Ho Hoâ€™ and itâ€™s freaking people out]]></title>
+      <link>http://www.thejournal.ie/tesco-self-checkout-ho-ho-ho-2-2490285-Dec2015/</link>
+      <comments>http://www.thejournal.ie/tesco-self-checkout-ho-ho-ho-2-2490285-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 19:30:20 +0000</pubDate>
+      <description><![CDATA[Is this a dream? Orâ€¦ a nightmare?]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/screencap8-111-230x150.png"  height="150"  width="230" />
+      <media:content url="http://c1.thejournal.ie/media/2015/12/screencap8-111-630x350.png"  height="350"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2490285</guid>
+      <category><![CDATA[unexpected item]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Taxi driver in Bono personal injury dispute has died]]></title>
+      <link>http://www.thejournal.ie/bono-rammed-car-taxi-driver-claims-2489848-Dec2015/</link>
+      <comments>http://www.thejournal.ie/bono-rammed-car-taxi-driver-claims-2489848-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 19:15:54 +0000</pubDate>
+      <description><![CDATA[The death was not in any way connected with the incident.]]></description>
+      <media:thumbnail url="http://c0.thejournal.ie/media/2015/12/france-paris-attacks-u2-2-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c0.thejournal.ie/media/2015/12/france-paris-attacks-u2-2-630x419.jpg"  height="419"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489848</guid>
+      <category><![CDATA[U2]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Your kids can learn from this little girlâ€™s battle with the trolls]]></title>
+      <link>http://www.thejournal.ie/monkeyshine-theatre-kids-2479032-Dec2015/</link>
+      <comments>http://www.thejournal.ie/monkeyshine-theatre-kids-2479032-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 19:00:31 +0000</pubDate>
+      <description><![CDATA[A new play by this Irish company will show them the story of an empowered young girl who meets some scary trolls. ]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/072-monkeyshine-callen-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c1.thejournal.ie/media/2015/12/072-monkeyshine-callen-332x500.jpg"  height="500"  width="332"  medium="image" />
+      <guid>http://jrnl.ie/2479032</guid>
+      <category><![CDATA[Winter]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Tesco is recalling these biscuits over undeclared egg ]]></title>
+      <link>http://www.thejournal.ie/tesco-recalling-biscuits-over-undeclared-egg-2490669-Dec2015/</link>
+      <comments>http://www.thejournal.ie/tesco-recalling-biscuits-over-undeclared-egg-2490669-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 18:54:31 +0000</pubDate>
+      <description><![CDATA[Back away from the chocolate. ]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/159295-2-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c3.thejournal.ie/media/2015/12/159295-2-630x152.jpg"  height="152"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2490669</guid>
+      <category><![CDATA[Tesco]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Photos: GardaÃ­ respond to rolling protests at Grafton Street shops ]]></title>
+      <link>http://www.thejournal.ie/grafton-street-shops-gardai-2490453-Dec2015/</link>
+      <comments>http://www.thejournal.ie/grafton-street-shops-gardai-2490453-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 18:22:46 +0000</pubDate>
+      <description><![CDATA[Protesters entered Brown Thomas, and there were rolling road closures in the city before the action ended. ]]></description>
+      <media:thumbnail url="http://c2.thejournal.ie/media/2015/12/bt1-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c2.thejournal.ie/media/2015/12/bt1-630x353.jpg"  height="353"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2490453</guid>
+      <category><![CDATA[Protest]]></category>
+    </item>
+    <item>
+      <title><![CDATA[GAA player jailed for assaulting opponent walks free after appeal is upheld]]></title>
+      <link>http://www.thejournal.ie/gaa-player-freed-after-appeal-2490390-Dec2015/</link>
+      <comments>http://www.thejournal.ie/gaa-player-freed-after-appeal-2490390-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 18:07:21 +0000</pubDate>
+      <description><![CDATA[The victim had stated that he considers himself disabled and will â€œnever be the same againâ€.]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/general-view-of-a-gaelic-football-35-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c3.thejournal.ie/media/2015/12/general-view-of-a-gaelic-football-35-630x374.jpg"  height="374"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2490390</guid>
+      <category><![CDATA[Mayo]]></category>
+    </item>
+    <item>
+      <title><![CDATA[â€˜It sickened me but I canâ€™t honestly say I am hugely surprisedâ€™]]></title>
+      <link>http://www.thejournal.ie/anti-corruption-agency-rte-investigates-2489517-Dec2015/</link>
+      <comments>http://www.thejournal.ie/anti-corruption-agency-rte-investigates-2489517-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 17:50:37 +0000</pubDate>
+      <description><![CDATA[The DÃ¡il has been discussing the revelations in last nightâ€™s RTÃ‰ Investigates programme. ]]></description>
+      <media:thumbnail url="http://c0.thejournal.ie/media/2015/12/screen-shot-2015-12-08-at-1-59-01-p-m-230x150.png"  height="150"  width="230" />
+      <media:content url="http://c0.thejournal.ie/media/2015/12/screen-shot-2015-12-08-at-1-59-01-p-m-630x393.png"  height="393"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489517</guid>
+      <category><![CDATA[Stephen Donnelly]]></category>
+    </item>
+    <item>
+      <title><![CDATA[â€˜As a councillor, RTÃ‰ Investigates was a huge let down â€“ but weâ€™re not all the sameâ€™ ]]></title>
+      <link>http://www.thejournal.ie/readme/rte-investigates-let-down-2489338-Dec2015/</link>
+      <comments>http://www.thejournal.ie/readme/rte-investigates-let-down-2489338-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 17:30:47 +0000</pubDate>
+      <description><![CDATA[While itâ€™s clear that these are a distinct minority of elected officials, they let us all down and in a way tarnish the already battered reputation of politics in Ireland, writes councillor Noel Rock. ]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/original-52-230x150.jpeg"  height="150"  width="230" />
+      <guid>http://jrnl.ie/2489338</guid>
+      <category><![CDATA[rtÃ© investigates]]></category>
+    </item>
+    <item>
+      <title><![CDATA[BBC News presenter calls heavyweight champion Tyson Fury a â€˜dickheadâ€™ live on air]]></title>
+      <link>http://www.the42.ie/tyson-fury-dickhead-bbc-news-reporter-2489652-Dec2015/</link>
+      <comments>http://www.the42.ie/tyson-fury-dickhead-bbc-news-reporter-2489652-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 17:25:21 +0000</pubDate>
+      <description><![CDATA[A public petition is calling for the boxerâ€™s removal from the Sports Personality of the Year shortlist. ]]></description>
+      <media:thumbnail url="http://c0.thejournal.ie/media/2015/12/dickhead-fury-230x150.png"  height="150"  width="230" />
+      <guid>http://the42.ie/2489652</guid>
+      <category><![CDATA[watershed]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Dozens of protesters and gardaÃ­ enter Bank of Ireland College Green after anti-austerity march]]></title>
+      <link>http://www.thejournal.ie/bank-of-ireland-college-green-2489920-Dec2015/</link>
+      <comments>http://www.thejournal.ie/bank-of-ireland-college-green-2489920-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 17:25:12 +0000</pubDate>
+      <description><![CDATA[The protest ended peacefully and there were no arrests.]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/12-water-protest-630x332.jpg"  height="332"  width="630" />
+      <media:content url="http://c3.thejournal.ie/media/2015/12/12-water-protest-630x420.jpg"  height="420"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489920</guid>
+      <category><![CDATA[protesters]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Air France flight diverted over bomb threat]]></title>
+      <link>http://www.thejournal.ie/air-france-flight-diverted-over-bomb-threat-2490245-Dec2015/</link>
+      <comments>http://www.thejournal.ie/air-france-flight-diverted-over-bomb-threat-2490245-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 17:08:10 +0000</pubDate>
+      <description><![CDATA[The threat turned out to be a hoax. ]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/france-pilots-strike-4-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c1.thejournal.ie/media/2015/12/france-pilots-strike-4-630x409.jpg"  height="409"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2490245</guid>
+      <category><![CDATA[montreal]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Renua says flat tax calculator taken down over â€˜technical issuesâ€™ â€“ but others arenâ€™t so sure ]]></title>
+      <link>http://www.thejournal.ie/renua-flat-tax-calculator-2490247-Dec2015/</link>
+      <comments>http://www.thejournal.ie/renua-flat-tax-calculator-2490247-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 16:55:29 +0000</pubDate>
+      <description><![CDATA[The party is proposing a radical overhaul of the tax system and the introduction of a single 23% rate. ]]></description>
+      <media:thumbnail url="http://c0.thejournal.ie/media/2015/12/screen-shot-2015-12-08-at-4-42-03-p-m-230x150.png"  height="150"  width="230" />
+      <media:content url="http://c0.thejournal.ie/media/2015/12/screen-shot-2015-12-08-at-4-42-03-p-m-630x459.png"  height="459"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2490247</guid>
+      <category><![CDATA[Technical Issues]]></category>
+    </item>
+    <item>
+      <title><![CDATA[The 5 at 5: Tuesday ]]></title>
+      <link>http://www.thejournal.ie/5-at-5-181-2490295-Dec2015/</link>
+      <comments>http://www.thejournal.ie/5-at-5-181-2490295-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 16:53:29 +0000</pubDate>
+      <description><![CDATA[Five minutes, five stories, five oâ€™clockâ€¦]]></description>
+      <media:thumbnail url="http://c2.thejournal.ie/media/2015/12/shutterstock_1491525111-630x332.jpg"  height="332"  width="630" />
+      <media:content url="http://c2.thejournal.ie/media/2015/12/shutterstock_1491525111-630x389.jpg"  height="389"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2490295</guid>
+      <category><![CDATA[Take Five]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Why you can expect filling up the car to be cheap for a while yet]]></title>
+      <link>http://businessetc.thejournal.ie/oil-fuel-prices-ireland-2489934-Dec2015/</link>
+      <comments>http://businessetc.thejournal.ie/oil-fuel-prices-ireland-2489934-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 16:31:06 +0000</pubDate>
+      <description><![CDATA[Thank you international oil cartel.]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/577480524_da4af6a87a_b-2-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c3.thejournal.ie/media/2015/12/577480524_da4af6a87a_b-2-630x417.jpg"  height="417"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489934</guid>
+      <category><![CDATA[pumped]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Police have seized four owls in Armagh]]></title>
+      <link>http://www.thejournal.ie/police-property-owls-sold-illegally-raid-2489980-Dec2015/</link>
+      <comments>http://www.thejournal.ie/police-property-owls-sold-illegally-raid-2489980-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 16:13:22 +0000</pubDate>
+      <description><![CDATA[Members of the public have been encouraged to come forward and report any similar offences. ]]></description>
+      <media:thumbnail url="http://c2.thejournal.ie/media/2015/12/barn-owls-lurgan-745-211115-1-2-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c2.thejournal.ie/media/2015/12/barn-owls-lurgan-745-211115-1-2-281x500.jpg"  height="500"  width="281"  medium="image" />
+      <guid>http://jrnl.ie/2489980</guid>
+      <category><![CDATA[Suspicion]]></category>
+    </item>
+    <item>
+      <title><![CDATA[The entire planet is wondering why it canâ€™t log into Snapchat ]]></title>
+      <link>http://www.thejournal.ie/snapchat-planet-problems-international-social-2489631-Dec2015/</link>
+      <comments>http://www.thejournal.ie/snapchat-planet-problems-international-social-2489631-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 15:24:29 +0000</pubDate>
+      <description><![CDATA[People are having a difficult time dealing with this information. ]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/shutterstock_188728949-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c1.thejournal.ie/media/2015/12/shutterstock_188728949-630x420.jpg"  height="420"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489631</guid>
+      <category><![CDATA[system error]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Woman arrested over case of man with learning difficulties who was beaten to death]]></title>
+      <link>http://www.thejournal.ie/woman-arrested-murder-investigation-david-clarke-2489904-Dec2015/</link>
+      <comments>http://www.thejournal.ie/woman-arrested-murder-investigation-david-clarke-2489904-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 15:22:55 +0000</pubDate>
+      <description><![CDATA[David Clarke (26) was bullied in the weeks leading up to his murder.]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/download-248-230x150.png"  height="150"  width="230" />
+      <guid>http://jrnl.ie/2489904</guid>
+      <category><![CDATA[shankhill]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Have you bought any of Lidlâ€™s new posh food? One of its soups has been recalled]]></title>
+      <link>http://www.thejournal.ie/crayfish-soup-lidl-ireland-harmful-2489815-Dec2015/</link>
+      <comments>http://www.thejournal.ie/crayfish-soup-lidl-ireland-harmful-2489815-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 15:02:45 +0000</pubDate>
+      <description><![CDATA[People who bought the soup are being advised to return the product to a Lidl store.]]></description>
+      <media:thumbnail url="http://c0.thejournal.ie/media/2015/12/image0015-230x150.png"  height="150"  width="230" />
+      <media:content url="http://c0.thejournal.ie/media/2015/12/image0015-302x500.png"  height="500"  width="302"  medium="image" />
+      <guid>http://jrnl.ie/2489815</guid>
+      <category><![CDATA[put down the soup]]></category>
+    </item>
+    <item>
+      <title><![CDATA[5 talking points ahead of the final round of Champions League group matches]]></title>
+      <link>http://www.the42.ie/champions-league-talking-points-group-matches-2487813-Dec2015/</link>
+      <comments>http://www.the42.ie/champions-league-talking-points-group-matches-2487813-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 15:00:33 +0000</pubDate>
+      <description><![CDATA[13 clubs are hoping to fill the seven remaining places during the last action of 2015. ]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/spain-valencia-coach-3-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c1.thejournal.ie/media/2015/12/spain-valencia-coach-3-630x389.jpg"  height="389"  width="630"  medium="image" />
+      <guid>http://the42.ie/2487813</guid>
+      <category><![CDATA[Chelsea]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Woman guilty of child abduction escapes jail but told to stay away from childcare facilities and schools]]></title>
+      <link>http://www.thejournal.ie/abduction-from-creche-suspended-sentence-2489798-Dec2015/</link>
+      <comments>http://www.thejournal.ie/abduction-from-creche-suspended-sentence-2489798-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 14:48:30 +0000</pubDate>
+      <description><![CDATA[She was given an 18-month suspended sentence. ]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/shutterstock_233186992-2-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c3.thejournal.ie/media/2015/12/shutterstock_233186992-2-630x420.jpg"  height="420"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489798</guid>
+      <category><![CDATA[Schizophrenia]]></category>
+    </item>
+    <item>
+      <title><![CDATA[A match has been scheduled for Good Friday â€“ and publicans are not happy]]></title>
+      <link>http://www.thejournal.ie/good-friday-ireland-match-pubs-2489724-Dec2015/</link>
+      <comments>http://www.thejournal.ie/good-friday-ireland-match-pubs-2489724-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 14:40:30 +0000</pubDate>
+      <description><![CDATA[Ireland play Switzerland in the Aviva Stadium on 25 March.]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/john-oshea-with-cuneyt-cakir-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c3.thejournal.ie/media/2015/12/john-oshea-with-cuneyt-cakir-630x383.jpg"  height="383"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489724</guid>
+      <category><![CDATA[Good Friday]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Amazonâ€™s CEO would like to send Donald Trump into space]]></title>
+      <link>http://businessetc.thejournal.ie/amazon-ceo-trump-space-2489218-Dec2015/</link>
+      <comments>http://businessetc.thejournal.ie/amazon-ceo-trump-space-2489218-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 14:00:05 +0000</pubDate>
+      <description><![CDATA[Jeff Bezos made the offer after Trump called Amazon a â€œno profit companyâ€.]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/ecuador-jeff-bezos-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c1.thejournal.ie/media/2015/12/ecuador-jeff-bezos-630x460.jpg"  height="460"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489218</guid>
+      <category><![CDATA[Trump]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Suspected burglar killed by alligator â€˜while hiding from policeâ€™]]></title>
+      <link>http://www.thejournal.ie/alligator-kills-burglar-2489607-Dec2015/</link>
+      <comments>http://www.thejournal.ie/alligator-kills-burglar-2489607-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 13:59:21 +0000</pubDate>
+      <description><![CDATA[Matthew Riggins was found with injuries that were consistent with an alligator attack.]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/16836272720_422732fc0a_b-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c3.thejournal.ie/media/2015/12/16836272720_422732fc0a_b-630x472.jpg"  height="472"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489607</guid>
+      <category><![CDATA[United States]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Investigation after teenage girl rescued from water at Hook Head was dropped back into the sea]]></title>
+      <link>http://www.thejournal.ie/hook-head-rescue-helicopter-2489608-Dec2015/</link>
+      <comments>http://www.thejournal.ie/hook-head-rescue-helicopter-2489608-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 13:55:35 +0000</pubDate>
+      <description><![CDATA[The girl remains in a critical condition in hospital.]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/coast-guard-12-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c1.thejournal.ie/media/2015/12/coast-guard-12-630x420.jpg"  height="420"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489608</guid>
+      <category><![CDATA[Wexford]]></category>
+    </item>
+    <item>
+      <title><![CDATA[These takeaways were shut down by the Food Safety Authority last month]]></title>
+      <link>http://www.thejournal.ie/food-safety-orders-november-2489521-Dec2015/</link>
+      <comments>http://www.thejournal.ie/food-safety-orders-november-2489521-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 13:28:55 +0000</pubDate>
+      <description><![CDATA[And a butchers. And a restaurant.]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/shutterstock_159521462-1-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c3.thejournal.ie/media/2015/12/shutterstock_159521462-1-630x415.jpg"  height="415"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489521</guid>
+      <category><![CDATA[Kilkenny]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Death of man believed to have taken his own life now being treated as suspicious ]]></title>
+      <link>http://www.thejournal.ie/missing-murder-john-stewart-2489506-Dec2015/</link>
+      <comments>http://www.thejournal.ie/missing-murder-john-stewart-2489506-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 13:21:22 +0000</pubDate>
+      <description><![CDATA[GardaÃ­ are seeking to trace Stewartâ€™s movement between Tuesday 1 December and Wednesday 2 December.]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/john-stewart-3-230x150.jpg"  height="150"  width="230" />
+      <guid>http://jrnl.ie/2489506</guid>
+      <category><![CDATA[suspicious circumstances]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Facebook didnâ€™t pay a whole lot in Irish taxes last year]]></title>
+      <link>http://businessetc.thejournal.ie/facebook-ireland-tax-2489296-Dec2015/</link>
+      <comments>http://businessetc.thejournal.ie/facebook-ireland-tax-2489296-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 12:30:48 +0000</pubDate>
+      <description><![CDATA[The social networkâ€™s local arm did, however, record a big leap in turnover.]]></description>
+      <media:thumbnail url="http://c0.thejournal.ie/media/2015/12/mark-zuckerberg-mission-statement-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c0.thejournal.ie/media/2015/12/mark-zuckerberg-mission-statement-630x413.jpg"  height="413"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489296</guid>
+      <category><![CDATA[unfriended]]></category>
+    </item>
+    <item>
+      <title><![CDATA[This Irish wakeboarder made the most of the floods caused by Storm Desmond]]></title>
+      <link>http://www.the42.ie/storm-desmond-cork-floods-david-ocaoimh-wakeboarding-2489360-Dec2015/</link>
+      <comments>http://www.the42.ie/storm-desmond-cork-floods-david-ocaoimh-wakeboarding-2489360-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 12:30:15 +0000</pubDate>
+      <description><![CDATA[David Oâ€™Caoimh had some fun in Cork after the River Lee breached its banks. ]]></description>
+      <media:thumbnail url="http://c2.thejournal.ie/media/2015/12/david-ocaoimh-wakeboarding-cork-230x150.png"  height="150"  width="230" />
+      <guid>http://the42.ie/2489360</guid>
+      <category><![CDATA[wakeboarding]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Apple has an answer for your iPhone battery woes, but it will cost you]]></title>
+      <link>http://businessetc.thejournal.ie/apple-battery-case-2489205-Dec2015/</link>
+      <comments>http://businessetc.thejournal.ie/apple-battery-case-2489205-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 12:21:21 +0000</pubDate>
+      <description><![CDATA[Its new Smart Battery Case for the iPhone 6 and 6s will cost users â‚¬119.]]></description>
+      <media:thumbnail url="http://c0.thejournal.ie/media/2015/12/mgql2_av4-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c0.thejournal.ie/media/2015/12/mgql2_av4-500x500.jpg"  height="500"  width="500"  medium="image" />
+      <guid>http://jrnl.ie/2489205</guid>
+      <category><![CDATA[iPhone]]></category>
+    </item>
+    <item>
+      <title><![CDATA[What should be done when politicians are caught dealing dirty?]]></title>
+      <link>http://www.thejournal.ie/state-of-the-nation-13-2488891-Dec2015/</link>
+      <comments>http://www.thejournal.ie/state-of-the-nation-13-2488891-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 12:05:40 +0000</pubDate>
+      <description><![CDATA[Hereâ€™s everything you need to know about whatâ€™s happening in Irish politics right nowâ€¦]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/councillor-john-odonnell-rte-investigates-standards-in-public-office-2-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c1.thejournal.ie/media/2015/12/councillor-john-odonnell-rte-investigates-standards-in-public-office-2-630x354.jpg"  height="354"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2488891</guid>
+      <category><![CDATA[State of the Nation]]></category>
+    </item>
+    <item>
+      <title><![CDATA[This 71-year-old man had a calm, collected response to the floods]]></title>
+      <link>http://www.thejournal.ie/storm-desmond-yoga-2489056-Dec2015/</link>
+      <comments>http://www.thejournal.ie/storm-desmond-yoga-2489056-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 12:00:18 +0000</pubDate>
+      <description><![CDATA[Sure you might as well use it for a spot of yoga.]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/12314127_991917567533169_2106769877245685763_n-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c1.thejournal.ie/media/2015/12/12314127_991917567533169_2106769877245685763_n-500x500.jpg"  height="500"  width="500"  medium="image" />
+      <guid>http://jrnl.ie/2489056</guid>
+      <category><![CDATA[yoga]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Galway councillor who didnâ€™t declare a house, some land and â‚¬150k payment explains why ]]></title>
+      <link>http://www.thejournal.ie/tom-mc-hugh-today-sor-2489156-Dec2015/</link>
+      <comments>http://www.thejournal.ie/tom-mc-hugh-today-sor-2489156-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 11:46:09 +0000</pubDate>
+      <description><![CDATA[Cllr. Tom McHugh was featured in last nightâ€™s RTÃ‰ Investigates programme.]]></description>
+      <media:thumbnail url="http://c3.thejournal.ie/media/2015/12/pastedimage-2007-230x150.png"  height="150"  width="230" />
+      <guid>http://jrnl.ie/2489156</guid>
+      <category><![CDATA[Tom McHugh]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Brother and sister tied up in vicious burglary ]]></title>
+      <link>http://www.thejournal.ie/brother-and-sister-tied-up-burglary-vicious-2489118-Dec2015/</link>
+      <comments>http://www.thejournal.ie/brother-and-sister-tied-up-burglary-vicious-2489118-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 10:21:11 +0000</pubDate>
+      <description><![CDATA[The two lived together and are in their 60s. ]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/shutterstock_120400876-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c1.thejournal.ie/media/2015/12/shutterstock_120400876-630x418.jpg"  height="418"  width="630"  medium="image" />
+      <guid>http://jrnl.ie/2489118</guid>
+      <category><![CDATA[thomastown east]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Archbishop: â€˜Baptising children simply to be able to attend a specific school is an abuse of baptismâ€™]]></title>
+      <link>http://www.thejournal.ie/school-places-baptism-2489001-Dec2015/</link>
+      <comments>http://www.thejournal.ie/school-places-baptism-2489001-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 09:50:52 +0000</pubDate>
+      <description><![CDATA[Former Minister for Education and current Labour TD RuairÃ­ Quinn spoke this morning of the urgent need for reform in the area.]]></description>
+      <media:thumbnail url="http://c2.thejournal.ie/media/2015/12/school-places-baptism-2-230x150.jpg"  height="150"  width="230" />
+      <media:content url="http://c2.thejournal.ie/media/2015/12/school-places-baptism-2-384x500.jpg"  height="500"  width="384"  medium="image" />
+      <guid>http://jrnl.ie/2489001</guid>
+      <category><![CDATA[Schools]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Public will be â€œdeeply angeredâ€ by RTÃ‰ sting investigation, says Adams ]]></title>
+      <link>http://www.thejournal.ie/rte-investigates-gerry-adams-angered-2488959-Dec2015/</link>
+      <comments>http://www.thejournal.ie/rte-investigates-gerry-adams-angered-2488959-Dec2015/#comments</comments>
+      <pubDate>Tue, 08 Dec 2015 09:38:10 +0000</pubDate>
+      <description><![CDATA[A Fianna FÃ¡il councillor has resigned from his party following the programme. ]]></description>
+      <media:thumbnail url="http://c1.thejournal.ie/media/2015/12/gerry-adams-20-230x150.jpg"  height="150"  width="230" />
+      <guid>http://jrnl.ie/2488959</guid>
+      <category><![CDATA[wind farm investor]]></category>
+    </item>
+  </channel>
+</rss>
