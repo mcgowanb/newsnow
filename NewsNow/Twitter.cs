@@ -10,10 +10,10 @@ namespace NewsNow
 
         public Twitter()
         {
-            this.accessToken = "2354002902-u5HrSHdGgG16KI9bAEwYd9QHBRdW2SXNm0TRhhb";
-            this.accessTokenSecret = "sUu6YaAgNQGSupJokOjStpmSsVYEQcT7TL4olqJSBTWgL";
-            this.consumerKey = "Wvctm3WD477z0omUJ0icHQ";
-            this.consumerSecret = "0YFXJwvVzfSPfCXtlYZHQ16rG9VnRJ463MDZGEJc8gg";
+            this.accessToken = "4222277297-W7AxgyKv6jnGizv2y8mpCv8MpRpbqQLzaw2fOeJ";
+            this.accessTokenSecret = "fHrQ4JKWhskLKfwJFl5ow7FGqD1BXRW9KrlmqXgcUxaSS";
+            this.consumerKey = "Tg6Au8WRLlOtZQBjJI8Bk56QL";
+            this.consumerSecret = "uo3AZ5TCuruw5A4yP1F0998ZoYSPkyw8gpu8zfqWw8HcUMQW9T";
         }
 
         public TwitterStatus push(string tweet)

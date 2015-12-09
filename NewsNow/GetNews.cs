@@ -16,7 +16,7 @@ namespace NewsNow
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            XmlParser parser = new XmlParser(url);
+            XmlParser parser = new XmlParser(args[0]);
 
             Console.WriteLine("Loading news articles, please wait.......");
 

@@ -7,14 +7,26 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsNow", "NewsNow\NewsNow.
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Business Edge|Any CPU = Business Edge|Any CPU
+		Daily Edge|Any CPU = Daily Edge|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		The 42|Any CPU = The 42|Any CPU
+		The Journal|Any CPU = The Journal|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.Business Edge|Any CPU.ActiveCfg = Business Edge|Any CPU
+		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.Business Edge|Any CPU.Build.0 = Business Edge|Any CPU
+		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.Daily Edge|Any CPU.ActiveCfg = Daily Edge|Any CPU
+		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.Daily Edge|Any CPU.Build.0 = Daily Edge|Any CPU
 		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.The 42|Any CPU.ActiveCfg = The 42|Any CPU
+		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.The 42|Any CPU.Build.0 = The 42|Any CPU
+		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.The Journal|Any CPU.ActiveCfg = The Journal|Any CPU
+		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.The Journal|Any CPU.Build.0 = The Journal|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
