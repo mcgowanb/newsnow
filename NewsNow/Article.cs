@@ -4,13 +4,13 @@ namespace NewsNow
 {
     class Article
     {
-        
+
         private string title, description, link, thumblink, guid, category, hashTag;
         private DateTime date;
 
         public override string ToString()
         {
-            return String.Format("{0}. {2} {3:dd/MM/yy HH:mm:ss} {5}", title, description, guid, date, category, hashTag);
+            return String.Format("{0}. {1} {2}", title, guid, hashTag);
         }
 
         public string HashTag

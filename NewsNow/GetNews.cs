@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
-
+using TweetSharp;
 
 namespace NewsNow
 {
@@ -18,10 +18,19 @@ namespace NewsNow
             Console.OutputEncoding = Encoding.UTF8;
             XmlParser parser = new XmlParser(url);
 
+            Console.WriteLine("Loading news articles, please wait.......");
+
             tweet = parser.latestHeadline();
-            Console.WriteLine(tweet);
-            Console.WriteLine(tweet.Length);
-           
+            Console.WriteLine("Most recent article has beeen found: {0},\n pushing to twitter", tweet);
+
+            Twitter t = new Twitter();
+            TwitterStatus result = t.push(tweet);
+
+            if (result != null)
+            {
+                Console.WriteLine("Tweet sent successfully");
+            }
+            else Console.WriteLine("Duplicate tweet, no futher action");
 
 
         }
