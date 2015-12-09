@@ -9,34 +9,41 @@ namespace NewsNow
 {
     class XmlParser
     {
-        private string url;
+        private string url, tweet;
         private XmlDocument doc;
         private List<Article> list;
 
-        public XmlParser(string url) {
+        public XmlParser(string url)
+        {
             this.url = url;
             this.doc = new XmlDocument();
             this.list = new List<Article>();
         }
 
-        public void process() {
+        public void process()
+        {
             doc.Load(url);
 
             XmlElement rootNode = doc.DocumentElement;
             XmlNodeList nodes = rootNode.SelectNodes("channel/item");
 
-            foreach (XmlNode node in nodes) {
+            foreach (XmlNode node in nodes)
+            {
                 Article art = new Article();
-                art.Guid = node ["guid"].InnerText;
+                art.Guid = node["guid"].InnerText;
                 art.Title = node["title"].InnerText;
                 art.Date = Convert.ToDateTime(node["pubDate"].InnerText);
                 art.Description = node["description"].InnerText;
                 art.Category = node["category"].InnerText;
+                art.HashTag = node["category"].InnerText;
                 list.Add(art);
-                Console.WriteLine(art);
             }
 
+            tweet = list.First().ToString();
 
+            Console.WriteLine(tweet);
+            Console.WriteLine(tweet.Length);
+           
         }
     }
 
