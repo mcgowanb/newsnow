@@ -20,7 +20,7 @@ namespace NewsNow
             this.list = new List<Article>();
         }
 
-        public string process()
+        public string latestHeadline()
         {
             doc.Load(url);
 
@@ -38,8 +38,16 @@ namespace NewsNow
                 article.HashTag = node["category"].InnerText;
                 list.Add(article);
             }
-            return list.First().ToString();
+            return trimTweet(list.First().ToString());
+        }
+
+        public string trimTweet(string tweet)
+        {
+            if (tweet.Length > 140)
+            {
+                tweet = tweet.Substring(0, 137) + "...";
+            }
+            return tweet;
         }
     }
-
 }

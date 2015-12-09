@@ -15,11 +15,12 @@ namespace NewsNow
 
         static void Main(string[] args)
         {
-         
+            Console.OutputEncoding = Encoding.UTF8;
             XmlParser parser = new XmlParser(url);
 
-            tweet = parser.process();
+            tweet = parser.latestHeadline();
             Console.WriteLine(tweet);
+            Console.WriteLine(tweet.Length);
            
 
 

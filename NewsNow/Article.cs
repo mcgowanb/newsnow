@@ -4,6 +4,7 @@ namespace NewsNow
 {
     class Article
     {
+        
         private string title, description, link, thumblink, guid, category, hashTag;
         private DateTime date;
 
