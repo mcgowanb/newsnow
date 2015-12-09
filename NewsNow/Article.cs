@@ -9,7 +9,7 @@ namespace NewsNow
 
         public override string ToString()
         {
-            return String.Format("{0}. {3:dd/MM/yy HH:mm:ss} {2} {5}", title, description, guid, date, category, hashTag);
+            return String.Format("{0}. {2} {3:dd/MM/yy HH:mm:ss} {5}", title, description, guid, date, category, hashTag);
         }
 
         public string HashTag

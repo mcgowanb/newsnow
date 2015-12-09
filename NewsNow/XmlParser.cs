@@ -20,7 +20,7 @@ namespace NewsNow
             this.list = new List<Article>();
         }
 
-        public void process()
+        public string process()
         {
             doc.Load(url);
 
@@ -29,21 +29,16 @@ namespace NewsNow
 
             foreach (XmlNode node in nodes)
             {
-                Article art = new Article();
-                art.Guid = node["guid"].InnerText;
-                art.Title = node["title"].InnerText;
-                art.Date = Convert.ToDateTime(node["pubDate"].InnerText);
-                art.Description = node["description"].InnerText;
-                art.Category = node["category"].InnerText;
-                art.HashTag = node["category"].InnerText;
-                list.Add(art);
+                Article article = new Article();
+                article.Guid = node["guid"].InnerText;
+                article.Title = node["title"].InnerText;
+                article.Date = Convert.ToDateTime(node["pubDate"].InnerText);
+                article.Description = node["description"].InnerText;
+                article.Category = node["category"].InnerText;
+                article.HashTag = node["category"].InnerText;
+                list.Add(article);
             }
-
-            tweet = list.First().ToString();
-
-            Console.WriteLine(tweet);
-            Console.WriteLine(tweet.Length);
-           
+            return list.First().ToString();
         }
     }
 

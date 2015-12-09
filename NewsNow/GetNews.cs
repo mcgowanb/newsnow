@@ -11,23 +11,17 @@ namespace NewsNow
     class GetNews
     {
         private static string url = @"http://www.thejournal.ie/feed/";
+        private static string tweet;
 
         static void Main(string[] args)
         {
          
             XmlParser parser = new XmlParser(url);
 
-            parser.process();
+            tweet = parser.process();
+            Console.WriteLine(tweet);
+           
 
-
-
-            //string url = @"http://www.thejournal.ie/feed/";
-            //XmlDocument xmlDoc = new XmlDocument();
-            //xmlDoc.Load(url);
-
-            //XmlNodeList heat_run_nodes = xmlDoc.GetElementsByTagName("link");
-
-            //Console.WriteLine(heat_run_nodes.ToString());
 
         }
     }
