@@ -10,7 +10,6 @@ namespace NewsNow
 {
     class GetNews
     {
-        private static string url = @"http://www.thejournal.ie/feed/";
         private static string tweet;
 
         static void Main(string[] args)
@@ -21,7 +20,7 @@ namespace NewsNow
             Console.WriteLine("Loading news articles, please wait.......");
 
             tweet = parser.latestHeadline();
-            Console.WriteLine("Most recent article has beeen found: {0},\n pushing to twitter", tweet);
+            Console.WriteLine("Most recent article has beeen found:\n{0}\nPushing to twitter", tweet);
 
             Twitter t = new Twitter();
             TwitterStatus result = t.push(tweet);

@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml;
 
 namespace NewsNow
@@ -34,14 +32,29 @@ namespace NewsNow
                 article.Title = node["title"].InnerText;
                 article.Date = Convert.ToDateTime(node["pubDate"].InnerText);
                 article.Description = node["description"].InnerText;
-                article.Category = node["category"].InnerText;
-                article.HashTag = node["category"].InnerText;
+                try
+                {
+                    article.Category = (node["category"].InnerText == null) ? node["category"].InnerText : " ";
+                }
+                catch (NullReferenceException)
+                {
+                    article.Category = "null";
+                }
+
+                try
+                {
+                    article.HashTag = node["category"].InnerText;
+                }
+                catch (NullReferenceException)
+                {
+                    article.HashTag = "#null";
+                }
                 list.Add(article);
             }
             return trimTweet(list.First().ToString());
         }
 
-        public string trimTweet(string tweet)
+        private string trimTweet(string tweet)
         {
             if (tweet.Length > 140)
             {
