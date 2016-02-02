@@ -18,7 +18,7 @@ namespace NewsNow
             this.list = new List<Article>();
         }
 
-        public string latestHeadline()
+        public string LatestHeadline()
         {
             doc.Load(url);
 

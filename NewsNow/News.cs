@@ -8,7 +8,7 @@ using TweetSharp;
 
 namespace NewsNow
 {
-    class GetNews
+    class News
     {
         private static string tweet;
 
@@ -19,11 +19,11 @@ namespace NewsNow
 
             Console.WriteLine("Loading news articles, please wait.......");
 
-            tweet = parser.latestHeadline();
+            tweet = parser.LatestHeadline();
             Console.WriteLine("Most recent article has beeen found:\n{0}\nPushing to twitter", tweet);
 
             Twitter t = new Twitter();
-            TwitterStatus result = t.push(tweet);
+            TwitterStatus result = t.Push(tweet);
 
             if (result != null)
             {
