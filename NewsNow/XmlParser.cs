@@ -7,7 +7,7 @@ namespace NewsNow
 {
     class XmlParser
     {
-        private string url, tweet;
+        private string url;
         private XmlDocument doc;
         private List<Article> list;
 

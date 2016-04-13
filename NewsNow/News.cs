@@ -15,31 +15,29 @@ namespace NewsNow
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
+            string consoleMessage = "Duplicate tweet, no action";
 
             if (args.Length == 0)
             {
                 Console.WriteLine("No URL passed for parsing, program will now exit");
                 Environment.Exit(1);
             }
-                
+
 
             XmlParser parser = new XmlParser(args[0]);
 
             Console.WriteLine("Loading news articles, please wait.......");
 
             tweet = parser.LatestHeadline();
-            Console.WriteLine("Most recent article has beeen found:\n{0}\nPushing to twitter", tweet);
+            Console.WriteLine("Most recent article has beeen found:\n{0}", tweet);
 
             Twitter t = new Twitter();
-            TwitterStatus result = t.Push(tweet);
 
-            if (result != null)
+            if (!t.isDuplicateTweet(tweet))
             {
-                Console.WriteLine("Tweet sent successfully");
+                consoleMessage = t.Push(tweet);
             }
-            else Console.WriteLine("Duplicate tweet, no futher action");
-
-
+            Console.WriteLine(consoleMessage);
         }
     }
 }
