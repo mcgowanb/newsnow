@@ -23,16 +23,13 @@ namespace NewsNow
                 Environment.Exit(1);
             }
 
-
             XmlParser parser = new XmlParser(args[0]);
 
             Console.WriteLine("Loading news articles, please wait.......");
-
             tweet = parser.LatestHeadline();
             Console.WriteLine("Most recent article has beeen found:\n{0}", tweet);
 
             Twitter t = new Twitter();
-
             if (!t.isDuplicateTweet(tweet))
             {
                 consoleMessage = t.Push(tweet);

@@ -7,7 +7,6 @@ namespace NewsNow
 {
     class Twitter
     {
-
         private string consumerKey, consumerSecret, accessToken, accessTokenSecret;
         long userID;
 
@@ -52,6 +51,7 @@ namespace NewsNow
                 UserId = userID,
                 Count = 5
             };
+
             IEnumerable<TwitterStatus> currentTweets = service.ListTweetsOnUserTimeline(options);
             string check = tweet.Substring(0, 20);
             foreach (var cTweet in currentTweets)

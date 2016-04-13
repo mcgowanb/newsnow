@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsNow", "NewsNow\NewsNow.csproj", "{DC074368-26CD-4B46-9327-E8AD0224D8DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsNow.Tests", "NewsNow.Tests\NewsNow.Tests.csproj", "{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Business Edge|Any CPU = Business Edge|Any CPU
@@ -29,18 +27,6 @@ Global
 		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.The 42|Any CPU.Build.0 = The 42|Any CPU
 		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.The Journal|Any CPU.ActiveCfg = The Journal|Any CPU
 		{DC074368-26CD-4B46-9327-E8AD0224D8DE}.The Journal|Any CPU.Build.0 = The Journal|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.Business Edge|Any CPU.ActiveCfg = Release|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.Business Edge|Any CPU.Build.0 = Release|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.Daily Edge|Any CPU.ActiveCfg = Debug|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.Daily Edge|Any CPU.Build.0 = Debug|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.The 42|Any CPU.ActiveCfg = Release|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.The 42|Any CPU.Build.0 = Release|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.The Journal|Any CPU.ActiveCfg = Release|Any CPU
-		{335ACD06-6DB8-48FF-A32E-76C847E8D6C1}.The Journal|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
