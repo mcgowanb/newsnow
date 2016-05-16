@@ -7,9 +7,15 @@ namespace NewsNow
 
         private string title, description, link, thumblink, guid, category, hashTag;
         private DateTime date;
+        private const int TWEET_LENGTH = 136;
 
         public override string ToString()
         {
+            int length = TWEET_LENGTH - (guid.Length + hashTag.Length);
+            if (title.Length >= length)
+            {
+                title = title.Substring(0, (length - 3)) + "...";
+            }
             return String.Format("{0}. {1} {2}", title, guid, hashTag);
         }
 

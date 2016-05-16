@@ -51,16 +51,7 @@ namespace NewsNow
                 }
                 list.Add(article);
             }
-            return trimTweet(list.First().ToString());
-        }
-
-        private string trimTweet(string tweet)
-        {
-            if (tweet.Length > 140)
-            {
-                tweet = tweet.Substring(0, 137) + "...";
-            }
-            return tweet;
+            return list.First().ToString();
         }
     }
 }

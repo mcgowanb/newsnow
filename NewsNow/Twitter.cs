@@ -56,7 +56,7 @@ namespace NewsNow
             string check = tweet.Substring(0, 20);
             foreach (var cTweet in currentTweets)
             {
-                if (cTweet.Text.Contains(check))
+                if ((cTweet.Text != null) && (cTweet.Text.Contains(check)))
                 {
                     duplicate = true;
                     break;
