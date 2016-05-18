@@ -11,6 +11,7 @@ namespace NewsNow
     class News
     {
         private static string tweet;
+        public static string path;
 
         static void Main(string[] args)
         {
@@ -23,6 +24,7 @@ namespace NewsNow
                 Environment.Exit(1);
             }
 
+            path = args[1];
             XmlParser parser = new XmlParser(args[0]);
 
             Console.WriteLine("Loading news articles, please wait.......");

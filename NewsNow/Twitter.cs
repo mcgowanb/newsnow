@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Runtime.Remoting.Channels;
 using TweetSharp;
 
 namespace NewsNow
@@ -8,15 +7,17 @@ namespace NewsNow
     class Twitter
     {
         private string consumerKey, consumerSecret, accessToken, accessTokenSecret;
+        private Dictionary<string, string> properties = new Properties().LoadProperties();
         long userID;
 
         public Twitter()
         {
-            this.accessToken = "4222277297-W7AxgyKv6jnGizv2y8mpCv8MpRpbqQLzaw2fOeJ";
-            this.accessTokenSecret = "fHrQ4JKWhskLKfwJFl5ow7FGqD1BXRW9KrlmqXgcUxaSS";
-            this.consumerKey = "Tg6Au8WRLlOtZQBjJI8Bk56QL";
-            this.consumerSecret = "uo3AZ5TCuruw5A4yP1F0998ZoYSPkyw8gpu8zfqWw8HcUMQW9T";
-            this.userID = 4222277297;
+            properties = new Properties().LoadProperties();
+            this.accessToken = properties["accessToken"];
+            this.accessTokenSecret = properties["accessTokenSecret"];
+            this.consumerKey = properties["consumerKey"];
+            this.consumerSecret = properties["consumerSecret"];
+            this.userID = Convert.ToInt64(properties["userID"]);
         }
 
         public String Push(string tweet)
