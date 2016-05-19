@@ -18,9 +18,9 @@ namespace NewsNow
             Console.OutputEncoding = Encoding.UTF8;
             string consoleMessage = "Duplicate tweet, no action";
 
-            if (args.Length == 0)
+            if (args.Length <= 1)
             {
-                Console.WriteLine("No URL passed for parsing, program will now exit");
+                Console.WriteLine("No URL passed for parsing or properties file missing, program will now exit");
                 Environment.Exit(1);
             }
 
